@@ -10,8 +10,7 @@ Aplikasi catatan sederhana built dengan Flutter dan Dart.
 - ✅ Responsive UI
 
 ## 👥 Anggota Kelompok
-- Bunga Clara October - UI Layer & Presentasi
-- Erinna Dian Kristianti - State Management & Business Logic
+- Zaki Yunan Fanani - UI Layer & Presentasi | State Management & Business Logic
 
 ## 🛠️ Teknologi
 - Flutter 3.x
